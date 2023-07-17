@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+  }
+  
+  #text-area {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  button {
+    display: block;
+    margin: 10px auto;
+  }
+  
